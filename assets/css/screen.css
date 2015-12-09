@@ -3,7 +3,8 @@ header{
     height:30px;
     overflow: hidden;
     width:200px;
-    float:right;
+    right: 0;
+    position: fixed;
 }
 .menu{
     height:30px;
